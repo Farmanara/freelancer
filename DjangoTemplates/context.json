@@ -4,5 +4,32 @@
         "head_icon":"freelance_template/assets/img/favicon.ico"
         
       
-    }
+    },
+    "navbar":{
+        "text":"Start Boostrap",
+        "button_text":"Menu",
+        "i_class":"",
+        "list":[
+            {
+                "href":"#portfolio",
+                "text":"Portfolio"
+            }
+        ]
+
+    },
+
+    "header":
+    {
+        "avatar_file": "freelancer_template/assets/img/avataaars.svg",
+        "text":"Start Boostrap",
+        "subhead_text":"Graphic Artist - Web Designer - Illustrator"
+    },
+
+    "sections": [
+        {
+            "file": "freelancer_template/sections/porfolio.html",
+            
+        }
+    ]
+    
 }

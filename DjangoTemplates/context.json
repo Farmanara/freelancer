@@ -82,8 +82,15 @@
             ],
             "about_section_button":{
                 "href":"https://startbootstrap.com/theme/freelancer/",
+                "i_class":"fas fa-download mr-2",
                 "text":"Free Download!"
             }
+
+        },
+
+        {
+            "file":"freelancer_template/sections/contact.html",
+            "heading":"Contact Me"
 
         }
     ]

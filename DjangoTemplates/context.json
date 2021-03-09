@@ -28,7 +28,46 @@
     "sections": [
         {
             "file": "freelancer_template/sections/portfolio.html",
-            "heading":"TestFolio"
+            "heading":"TestFolio",
+            "porfolio_modals":[
+                {
+                    "grid_class":"col-md-6 col-lg-4 mb-5",
+                    "data_target":"#portfolioModal1",
+                    "img":"freelancer_template/assets/img/portfolio/cake.png",
+                    "img_alt":""
+                },
+                {
+                    "grid_class":"col-md-6 col-lg-4 mb-5",
+                    "data_target":"#portfolioModal2",
+                    "img":"freelancer_template/assets/img/portfolio/cake.png",
+                    "img_alt":""
+                },
+                {
+                    "grid_class":"col-md-6 col-lg-4 mb-5",
+                    "data_target":"#portfolioModal3",
+                    "img":"freelancer_template/assets/img/portfolio/circus.png",
+                    "img_alt":""
+                },
+                {
+                    "grid_class":"col-md-6 col-lg-4 mb-5 mb-lg-0",
+                    "data_target":"#portfolioModal4",
+                    "img":"freelancer_template/assets/img/portfolio/game.png",
+                    "img_alt":""
+                },
+                {
+                    "grid_class":"col-md-6 col-lg-4 mb-5 mb-md-0",
+                    "data_target":"#portfolioModal5",
+                    "img":"freelancer_template/assets/img/portfolio/safe.png",
+                    "img_alt":""
+                },
+                {
+                    "grid_class":"col-md-6 col-lg-4",
+                    "data_target":"#portfolioModal6",
+                    "img":"freelancer_template/assets/img/portfolio/submarine.png",
+                    "img_alt":""
+                }
+            ]
+        
         }
     ]
     

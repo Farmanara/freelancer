@@ -28,7 +28,7 @@
     "sections": [
         {
             "file": "freelancer_template/sections/porfolio.html",
-            
+            "heading":"TestFolio"
         }
     ]
     

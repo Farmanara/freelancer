@@ -159,15 +159,35 @@
     ],
 
     "footer":{
-
+    
         "location":{
             "name":"Location",
-            "address":""
+            "address1":"2215 John Daniel Drive",
+            "address2":"Clark, MO 65243"
         },
         "social":{
-            "title":"",
+            "title":"Around the Web",
             "icons":[
-
+                {
+                    "btn_class":"btn btn-outline-light btn-social mx-1",
+                    "href":"#!",
+                    "i_class":"fab fa-fw fa-facebook-f"
+                },
+                {
+                    "btn_class":"btn btn-outline-light btn-social mx-1",
+                    "href":"#!",
+                    "i_class":"fab fa-fw fa-twitter"
+                },
+                {
+                    "btn_class":"btn btn-outline-light btn-social mx-1",
+                    "href":"#!",
+                    "i_class":"fab fa-fw fa-linkedin-in"
+                },
+                {
+                    "btn_class":"btn btn-outline-light btn-social mx-1",
+                    "href":"#!",
+                    "i_class":"fab fa-fw fa-dribbble"
+                }
             ]
         },
        "about":{

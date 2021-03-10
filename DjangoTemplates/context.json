@@ -203,7 +203,6 @@
      
     },
     "modals":[
-            "file":"",
             {
                 "modal_id":"portfolioModal1",
                 "label":"portfolioModal1Label",

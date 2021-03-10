@@ -59,7 +59,7 @@
 
 
        {%for section in sections%} {%include section.file%}
-       
+
         {%endfor%}
         
 
@@ -112,10 +112,12 @@
         <!-- Portfolio Modals-->
 
 
-        <!-- Portfolio Modal 1-->
  
         {%for modal in modals%} 
-        <div class="portfolio-modal modal fade" id="{{modal.modal_id}}" tabindex="-1" role="dialog" aria-labelledby="{{modal.label}}" aria-hidden="true">
+
+
+        <h1>test</h1>
+        {% comment %} <div class="portfolio-modal modal fade" id="{{modal.modal_id}}" tabindex="-1" role="dialog" aria-labelledby="{{modal.label}}" aria-hidden="true">
             <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
@@ -147,7 +149,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> {% endcomment %}
         {%endfor%}
 
        

@@ -98,8 +98,57 @@
 
         {
             "file":"freelancer_template/sections/contact.html",
-            "heading":"Contact Me"
+            "heading":"Contact Me",
+            "form":[
+                {
+                    "label":"Name",
+                    "input": {
+                        "id":"name",
+                        "type":"text",
+                        "placeholder":"Name",
+                        "message":"Please enter your name."
+                    }
+                    
 
+
+                },
+                {
+                    "label":"Email Address",
+                    "input": {
+                        "id":"email",
+                        "type":"email",
+                        "placeholder":"Email Address",
+                        "message":"Please enter your email address."
+                    }
+                    
+
+
+                },
+                {
+                    "label":"Phone Number",
+                    "input": {
+                        "id":"phone",
+                        "type":"tel",
+                        "placeholder":"Phone Number",
+                        "message":"Please enter your phone number."
+                    }
+                    
+
+
+                },
+                {
+                    "label":"Message",
+                    "input": {
+                        "id":"message",
+                        "rows":"5",
+                        "placeholder":"Message",
+                        "message":"Please enter a message."
+                    }
+                    
+
+
+                }
+            ]
         }
     ]
     

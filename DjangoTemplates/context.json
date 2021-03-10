@@ -6,7 +6,7 @@
       
     },
     "navbar":{
-        "text":"Start Boostrap",
+        "text":"Start Bootstrap",
         "button_text":"Menu",
         "i_class":"",
         "list":[
@@ -36,12 +36,12 @@
     "sections": [
         {
             "file": "freelancer_template/sections/portfolio.html",
-            "heading":"TestFolio",
+            "heading":"PortFolio",
             "portfolio_modals":[
                 {
                     "grid_class":"col-md-6 col-lg-4 mb-5",
                     "data_target":"#portfolioModal1",
-                    "img":"freelancer_template/assets/img/portfolio/cake.png",
+                    "img":"freelancer_template/assets/img/portfolio/cabin.png",
                     "img_alt":""
                 },
                 {

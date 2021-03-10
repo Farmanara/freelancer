@@ -156,6 +156,31 @@
                 "text":"Send"
             }
         }
-    ]
+    ],
+
+    "footer":{
+
+        "location":{
+            "name":"Location",
+            "address":""
+        },
+        "social":{
+            "title":"",
+            "icons":[
+
+            ]
+        },
+       "about":{
+           "title":"About Freelancer",
+           "text":"Freelance is a free to use, MIT licensed Bootstrap theme created by",
+           "href":"http://startbootstrap.com",
+           "href_text":"Start Bootstrap"
+       },
+
+       "copyright":{
+           "text":"Copyright © Your Website 2020"
+       }
+     
+    }
     
 }

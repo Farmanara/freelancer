@@ -148,7 +148,13 @@
 
 
                 }
-            ]
+                
+            ],
+            "form_button":{
+                "class":"btn btn-primary btn-xl",
+                "type":"submit",
+                "text":"Send"
+            }
         }
     ]
     

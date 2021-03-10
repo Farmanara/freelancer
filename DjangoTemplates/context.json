@@ -155,6 +155,114 @@
                 "type":"submit",
                 "text":"Send"
             }
+        },
+        {
+            "file":"freelancer_template/sections/modals.html",
+            "modals":[
+                {
+                    "modal_id":"portfolioModal1",
+                    "label":"portfolioModal1Label",
+                    "heading_id":"portfolioModal1Label",
+                    "heading_text":"Log Cabin",
+                    "img":{
+                        "src":"freelancer_template/assets/img/portfolio/cabin.png",
+                        "alt":""
+                    },
+                    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                    "button":{
+                        "class":"btn btn-primary",
+                        "i_class":"fas fa-times fa-fw",
+                        "btn_text":"Close Window"
+                    }
+    
+                },
+                {
+                    "modal_id":"portfolioModal2",
+                    "label":"portfolioModal2Label",
+                    "heading_id":"portfolioModal2Label",
+                    "heading_text":"Tasty Cake",
+                    "img":{
+                        "src":"freelancer_template/assets/img/portfolio/cake.png",
+                        "alt":""
+                    },
+                    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                    "button":{
+                        "class":"btn btn-primary",
+                        "i_class":"fas fa-times fa-fw",
+                        "btn_text":"Close Window"
+                    }
+    
+                },
+                {
+                    "modal_id":"portfolioModal3",
+                    "label":"portfolioModal3Label",
+                    "heading_id":"portfolioModal3Label",
+                    "heading_text":"Circus Tent",
+                    "img":{
+                        "src":"freelancer_template/assets/img/portfolio/circus.png",
+                        "alt":""
+                    },
+                    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                    "button":{
+                        "class":"btn btn-primary",
+                        "i_class":"fas fa-times fa-fw",
+                        "btn_text":"Close Window"
+                    }
+    
+                },
+                {
+                    "modal_id":"portfolioModal4",
+                    "label":"portfolioModal4Label",
+                    "heading_id":"portfolioModal4Label",
+                    "heading_text":"Controller",
+                    "img":{
+                        "src":"freelancer_template/assets/img/portfolio/game.png",
+                        "alt":""
+                    },
+                    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                    "button":{
+                        "class":"btn btn-primary",
+                        "i_class":"fas fa-times fa-fw",
+                        "btn_text":"Close Window"
+                    }
+    
+                },
+                {
+                    "modal_id":"portfolioModal5",
+                    "label":"portfolioModal5Label",
+                    "heading_id":"portfolioModal5Label",
+                    "heading_text":"Locked Safe",
+                    "img":{
+                        "src":"freelancer_template/assets/img/portfolio/safe.png",
+                        "alt":""
+                    },
+                    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                    "button":{
+                        "class":"btn btn-primary",
+                        "i_class":"fas fa-times fa-fw",
+                        "btn_text":"Close Window"
+                    }
+    
+                },
+                {
+                    "modal_id":"portfolioModal6",
+                    "label":"portfolioModal6Label",
+                    "heading_id":"portfolioModal6Label",
+                    "heading_text":"Submarine",
+                    "img":{
+                        "src":"freelancer_template/assets/img/portfolio/submarine.png",
+                        "alt":""
+                    },
+                    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                    "button":{
+                        "class":"btn btn-primary",
+                        "i_class":"fas fa-times fa-fw",
+                        "btn_text":"Close Window"
+                    }
+    
+                }
+        ]
+
         }
     ],
 
@@ -201,111 +309,8 @@
            "text":"Copyright © Your Website 2020"
        }
      
-    },
+    }
 
-    "modals":[
-            {
-                "modal_id":"portfolioModal1",
-                "label":"portfolioModal1Label",
-                "heading_id":"portfolioModal1Label",
-                "heading_text":"Log Cabin",
-                "img":{
-                    "src":"freelancer_template/assets/img/portfolio/cabin.png",
-                    "alt":""
-                },
-                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
-                "button":{
-                    "class":"btn btn-primary",
-                    "i_class":"fas fa-times fa-fw",
-                    "btn_text":"Close Window"
-                }
-
-            },
-            {
-                "modal_id":"portfolioModal2",
-                "label":"portfolioModal2Label",
-                "heading_id":"portfolioModal2Label",
-                "heading_text":"Tasty Cake",
-                "img":{
-                    "src":"freelancer_template/assets/img/portfolio/cake.png",
-                    "alt":""
-                },
-                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
-                "button":{
-                    "class":"btn btn-primary",
-                    "i_class":"fas fa-times fa-fw",
-                    "btn_text":"Close Window"
-                }
-
-            },
-            {
-                "modal_id":"portfolioModal3",
-                "label":"portfolioModal3Label",
-                "heading_id":"portfolioModal3Label",
-                "heading_text":"Circus Tent",
-                "img":{
-                    "src":"freelancer_template/assets/img/portfolio/circus.png",
-                    "alt":""
-                },
-                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
-                "button":{
-                    "class":"btn btn-primary",
-                    "i_class":"fas fa-times fa-fw",
-                    "btn_text":"Close Window"
-                }
-
-            },
-            {
-                "modal_id":"portfolioModal4",
-                "label":"portfolioModal4Label",
-                "heading_id":"portfolioModal4Label",
-                "heading_text":"Controller",
-                "img":{
-                    "src":"freelancer_template/assets/img/portfolio/game.png",
-                    "alt":""
-                },
-                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
-                "button":{
-                    "class":"btn btn-primary",
-                    "i_class":"fas fa-times fa-fw",
-                    "btn_text":"Close Window"
-                }
-
-            },
-            {
-                "modal_id":"portfolioModal5",
-                "label":"portfolioModal5Label",
-                "heading_id":"portfolioModal5Label",
-                "heading_text":"Locked Safe",
-                "img":{
-                    "src":"freelancer_template/assets/img/portfolio/safe.png",
-                    "alt":""
-                },
-                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
-                "button":{
-                    "class":"btn btn-primary",
-                    "i_class":"fas fa-times fa-fw",
-                    "btn_text":"Close Window"
-                }
-
-            },
-            {
-                "modal_id":"portfolioModal6",
-                "label":"portfolioModal6Label",
-                "heading_id":"portfolioModal6Label",
-                "heading_text":"Submarine",
-                "img":{
-                    "src":"freelancer_template/assets/img/portfolio/submarine.png",
-                    "alt":""
-                },
-                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
-                "button":{
-                    "class":"btn btn-primary",
-                    "i_class":"fas fa-times fa-fw",
-                    "btn_text":"Close Window"
-                }
-
-            }
-    ]
+    
     
 }

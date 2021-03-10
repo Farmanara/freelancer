@@ -201,6 +201,111 @@
            "text":"Copyright © Your Website 2020"
        }
      
-    }
+    },
+    "modals":[
+            "file":"",
+            {
+                "modal_id":"portfolioModal1",
+                "label":"portfolioModal1Label",
+                "heading_id":"portfolioModal1Label",
+                "heading_text":"Log Cabin",
+                "img":{
+                    "src":"freelancer_template/assets/img/portfolio/cabin.png",
+                    "alt":""
+                },
+                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                "button":{
+                    "class":"",
+                    "i_class":"",
+                    "btn_text":"Close Window"
+                }
+
+            },
+            {
+                "modal_id":"portfolioModal2",
+                "label":"portfolioModal2Label",
+                "heading_id":"portfolioModal2Label",
+                "heading_text":"",
+                "img":{
+                    "src":"",
+                    "alt":""
+                },
+                "text":"",
+                "button":{
+                    "class":"",
+                    "i_class":"",
+                    "btn_text":"Close Window"
+                }
+
+            },
+            {
+                "modal_id":"portfolioModal3",
+                "label":"portfolioModal3Label",
+                "heading_id":"portfolioModal3Label",
+                "heading_text":"",
+                "img":{
+                    "src":"",
+                    "alt":""
+                },
+                "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+                "button":{
+                    "class":"btn btn-primary",
+                    "i_class":"fas fa-times fa-fw",
+                    "btn_text":"Close Window"
+                }
+
+            },
+            {
+                "modal_id":"portfolioModal4",
+                "label":"portfolioModal4Label",
+                "heading_id":"portfolioModal4Label",
+                "heading_text":"",
+                "img":{
+                    "src":"",
+                    "alt":""
+                },
+                "text":"",
+                "button":{
+                    "class":"",
+                    "i_class":"",
+                    "btn_text":"Close Window"
+                }
+
+            },
+            {
+                "modal_id":"portfolioModal5",
+                "label":"portfolioModal5Label",
+                "heading_id":"portfolioModal5Label",
+                "heading_text":"",
+                "img":{
+                    "src":"",
+                    "alt":""
+                },
+                "text":"",
+                "button":{
+                    "class":"",
+                    "i_class":"",
+                    "btn_text":"Close Window"
+                }
+
+            },
+            {
+                "modal_id":"portfolioModal6",
+                "label":"portfolioModal6Label",
+                "heading_id":"portfolioModal6Label",
+                "heading_text":"",
+                "img":{
+                    "src":"",
+                    "alt":""
+                },
+                "text":"",
+                "button":{
+                    "class":"",
+                    "i_class":"",
+                    "btn_text":"Close Window"
+                }
+
+            }
+    ]
     
 }
